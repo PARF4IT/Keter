@@ -16,7 +16,7 @@ client.on('ready', async () => {
       mongoUri: process.env.MONGO_URI,
    });
 
-   console.log('Caesium - 1.0.0 SHI3DO');
+   console.log('Keter');
 });
 
 client.login(process.env.TOKEN);
